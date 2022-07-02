@@ -1,0 +1,1 @@
+# goit_py_core
